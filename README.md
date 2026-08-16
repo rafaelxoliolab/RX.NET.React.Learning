@@ -19,9 +19,11 @@ To Start learning React + NET, you need to install the next tools:
 
 - C# Dev kit
 - Material Icon Theme (Add Icons for different file types)
-- 
+- Nuget Gallery
+- SQLite Viewer
 
 <img width="550" height="258" alt="image" src="https://github.com/user-attachments/assets/0938ce98-5cd0-4eb7-8de7-15ce515bb347" />
+<img width="401" height="121" alt="image" src="https://github.com/user-attachments/assets/494a5c75-ea2c-4f36-9c45-06c5b2756131" />
 
 
 ## What is React?
