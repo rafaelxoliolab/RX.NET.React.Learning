@@ -10,8 +10,19 @@ To Start learning React + NET, you need to install the next tools:
 - [.NET framework](https://dotnet.microsoft.com/en-us/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NodeJS](https://nodejs.org/en/download)
+- [Postman](https://www.postman.com/)
+- [Github](https://github.com/)
 
 <img width="403" height="306" alt="image" src="https://github.com/user-attachments/assets/351c70cc-a89f-4ea9-aa6f-3bb4f06bc89b" />
+
+## Install VS Code Extensions
+
+- C# Dev kit
+- Material Icon Theme (Add Icons for different file types)
+- 
+
+<img width="550" height="258" alt="image" src="https://github.com/user-attachments/assets/0938ce98-5cd0-4eb7-8de7-15ce515bb347" />
+
 
 ## What is React?
 
