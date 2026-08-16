@@ -7,8 +7,11 @@ This is a training pretends to be a reference for new developer that want to lea
 
 To Start learning React + NET, you need to install the next tools:
 
+- [.NET framework](https://dotnet.microsoft.com/en-us/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NodeJS](https://nodejs.org/en/download)
+
+<img width="403" height="306" alt="image" src="https://github.com/user-attachments/assets/351c70cc-a89f-4ea9-aa6f-3bb4f06bc89b" />
 
 ## What is React?
 
