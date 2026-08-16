@@ -1,0 +1,16 @@
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\bin\Debug\net10.0\RX.Reactivities.Infrastructure.deps.json
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\bin\Debug\net10.0\RX.Reactivities.Infrastructure.dll
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\bin\Debug\net10.0\RX.Reactivities.Infrastructure.pdb
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\bin\Debug\net10.0\RX.Reactivities.Domain.dll
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\bin\Debug\net10.0\RX.Reactivities.Domain.pdb
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.Reactivities.Infrastructure.csproj.AssemblyReference.cache
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.Reactivities.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.Reactivities.Infrastructure.AssemblyInfoInputs.cache
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.Reactivities.Infrastructure.AssemblyInfo.cs
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.Reactivities.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.Reactivities.Infrastructure.sourcelink.json
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.React.9D3BA67E.Up2Date
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.Reactivities.Infrastructure.dll
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\refint\RX.Reactivities.Infrastructure.dll
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\RX.Reactivities.Infrastructure.pdb
+C:\Main\GitHub\RX.NET.React.Learning\Sample1\Reactivities\RX.Reactivities.Infrastructure\obj\Debug\net10.0\ref\RX.Reactivities.Infrastructure.dll

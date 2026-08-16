@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RX.Reactivities.API/RX.Reactivities.API.csproj" />
+  <Project Path="RX.Reactivities.Application/RX.Reactivities.Application.csproj" />
+  <Project Path="RX.Reactivities.Domain/RX.Reactivities.Domain.csproj" />
+  <Project Path="RX.Reactivities.Infrastructure/RX.Reactivities.Infrastructure.csproj" />
+</Solution>

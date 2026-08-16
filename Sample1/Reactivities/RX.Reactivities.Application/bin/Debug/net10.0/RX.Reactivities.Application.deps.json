@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RX.Reactivities.Application/1.0.0": {
+        "dependencies": {
+          "RX.Reactivities.Domain": "1.0.0",
+          "RX.Reactivities.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "RX.Reactivities.Application.dll": {}
+        }
+      },
+      "RX.Reactivities.Domain/1.0.0": {
+        "runtime": {
+          "RX.Reactivities.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RX.Reactivities.Infrastructure/1.0.0": {
+        "dependencies": {
+          "RX.Reactivities.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RX.Reactivities.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RX.Reactivities.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RX.Reactivities.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RX.Reactivities.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
