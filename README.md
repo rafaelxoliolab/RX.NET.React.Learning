@@ -1,5 +1,14 @@
-# RX.NET.React.Learning
-This is a project created for a Learning .NET with React
+# Learning React with .NET
+This is a training pretends to be a reference for new developer that want to learn how to create new apps with React and .NET.
+
+- [By Rafael Xolio](https://www.linkedin.com/in/rafaelxolio/)
+
+## What do you need?
+
+To Start learning React + NET, you need to install the next tools:
+
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [NodeJS](https://nodejs.org/en/download)
 
 ## What is React?
 
