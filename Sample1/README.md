@@ -12,7 +12,7 @@ App based on Clean Architecture
 
 # Create .NET Project
 
-```cmd
+```
 >dotnet --info
 >dotnet new list
 >dotnet new sln
@@ -30,5 +30,26 @@ App based on Clean Architecture
 >dotnet new classlib -n RX.Reactivities.Infrastructure
 ```
 <img width="655" height="386" alt="image" src="https://github.com/user-attachments/assets/efea6221-8deb-410e-bc84-37bc5cda616e" />
+
+```console
+>dotnet sln add RX.Reactivities.API
+>dotnet sln add RX.Reactivities.Domain
+>dotnet sln add RX.Reactivities.Application
+>dotnet sln add RX.Reactivities.Infrastructure
+```
+
+```console
+>code .
+```
+<img width="602" height="378" alt="image" src="https://github.com/user-attachments/assets/c61e045e-7979-42fb-9de2-81b58495203a" />
+
+```console
+>cd RX.Reactivities.API
+>dotnet run
+```
+
+<img width="671" height="259" alt="image" src="https://github.com/user-attachments/assets/a620c9e4-78af-4440-a9f7-833c32bd6af9" />
+
+
 
 
